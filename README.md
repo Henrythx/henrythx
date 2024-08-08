@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hola 👋
+Primer repositorio
 
+##Descripción 
+Este es una prueba para la creacion de repositorios en github
 <!--
 **Henrythx/henrythx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
